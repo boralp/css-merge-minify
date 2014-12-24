@@ -1,5 +1,4 @@
 <?php
-/*!<link rel="stylesheet" type="text/css" media="screen" href="/css/css.php" />*/
 $files= array(
         'layout.css',
         'mobile.css',
